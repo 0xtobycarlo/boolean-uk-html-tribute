@@ -1,0 +1,23 @@
+
+h1 {
+    font-family: sans-serif;
+    padding: 30px;
+}
+
+h2 {
+    font-family: sans-serif;
+    padding: 30px;
+}
+
+h5 {
+    font-family: sans-serif;
+    padding: 30px;
+}
+
+.light-shadow {
+    font-family: sans-serif;
+    padding: 30px;
+
+    box-shadow: 0px 3px 6px;
+    box-decoration-break: var(6px);
+}
